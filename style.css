@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+  }
+#page {
+    max-width: 100px;
+    min-width: 900px;
+    margin: 40px auto 10px auto;
+    padding: 20px;
+    border: 4 double #000;
+    /* background-color: #cccccc; */
+    text-align: center;
+}
+h1 {
+    padding: 10px 30px 10px 10px;
+    background-color: #cccccc;
+    color: #ffffff;
+    text-shadow: 2px 2px 7px #111111;
+}
+.history {
+    border-bottom: 1px solid #000;
+}
+ul {
+    font-style: italic;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    text-align: center;
+    padding: 20px;
+}
+h3 {
+    margin: 20px;
+    background-repeat: no-repeat;
+    text-indent: 0px; 
+    text-emphasis: none;
+}
+.nav {
+    width: 570px;
+    padding: 10px 10px 20px 10px;
+    margin: -15px 0px 0px auto;
+    text-align: right;
+}
+a {
+    color: #cccccc;
+}
+#st, .footer {
+    font-style: italic;
+}
+ul {
+    text-align: left;
+}
+.biography {
+    background-color: white;
+}
+.line {
+    padding: 20px;
+}
+
+
+
+
+
+
+
